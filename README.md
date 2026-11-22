@@ -2,7 +2,7 @@
 
 A see-through, click-through map over the middle of your screen and a compass bar, by **ClanStop**. Outlines of hills,
 roads and water for all of Eastern Kingdoms and Kalimdor, Zephra's Isle, Darkspear Islands, Forever's new instances, the
-battlegrounds and the outdoor parts of dungeons and raids; quests (your focused quest in blue), your group, flight
+battlegrounds and the outdoor parts of dungeons and raids; quests (your focused quest in a colour you pick), your group, flight
 masters, banks, inns and trainers on the compass and the map; your target's role and distance. No other addons needed.
 
 ![Map Overlay & Compass](logo.png)
@@ -23,7 +23,7 @@ It's also coming to CurseForge as "Map Overlay & Compass"; once it's there, Curs
 
 ![The map during a fight](screenshots/screenshot-7.jpg)
 
-**Zoomed in to 300 yards.** Your focused quest is circled in blue, with its name and distance.
+**Zoomed in to 300 yards.** Your focused quest is circled, with its name and distance.
 
 ![Zoomed in with a focused quest](screenshots/screenshot-5.jpg)
 
