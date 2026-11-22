@@ -12,6 +12,29 @@ masters, banks, inns and trainers on the compass and the map; your target's role
 
 It's also coming to CurseForge as "Map Overlay & Compass"; once it's there, CurseForge keeps it up to date for you.
 
+## Screenshots
+
+**Outdoors: hills, roads and water as clean lines**, laid over the game. Clicks go straight through to the world.
+
+![Outlines over the Barrens](screenshots/screenshot-2.jpg)
+
+**In a fight** the map stays out of your way, and you can still click your target through it.
+
+![The map during a fight](screenshots/screenshot-7.jpg)
+
+**Zoomed in to 300 yards.** Your focused quest is circled in blue, with its name and distance.
+
+![Zoomed in with a focused quest](screenshots/screenshot-5.jpg)
+
+**The compass bar** with your zone and coordinates, quest marks and what's straight ahead. Drag it anywhere, here
+over the middle of the map.
+
+![The compass over the map](screenshots/screenshot-4.jpg)
+
+**Settings window** (`/csmap`): how far, how big, how see-through, which outlines and marks, your own colour.
+
+![Settings window](screenshots/screenshot-1.jpg)
+
 ## Install
 
 1. Close World of Warcraft.
