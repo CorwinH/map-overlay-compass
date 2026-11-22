@@ -1,7 +1,7 @@
 # Map Overlay & Compass for WoW Forever
 
 A see-through, click-through map over the middle of your screen and a compass bar, by **ClanStop**. Outlines of hills,
-roads and water for all of Eastern Kingdoms and Kalimdor; quests (your focused quest in blue), your group, flight
+roads and water for all of Eastern Kingdoms, Kalimdor and Zephra's Isle; quests (your focused quest in blue), your group, flight
 masters, banks, inns and trainers on the compass and the map; your target's role and distance. No other addons needed.
 
 ![Map Overlay & Compass](logo.png)
@@ -38,11 +38,12 @@ over the middle of the map.
 ## Install
 
 1. Close World of Warcraft.
-2. Open the zip. It has three folders: `ClanStopMap`, `ClanStopMap_EasternKingdoms`, `ClanStopMap_Kalimdor`.
-3. Put all three in your Forever AddOns folder, usually
+2. Open the zip. It has four folders: `ClanStopMap`, `ClanStopMap_EasternKingdoms`, `ClanStopMap_Kalimdor` and
+   `ClanStopMap_ZephrasIsle`.
+3. Put all four in your Forever AddOns folder, usually
    `C:\Program Files (x86)\World of Warcraft\_forever_\Interface\AddOns\`
    (replace them if they're already there).
-4. Start the game. On the character screen, open **AddOns** and make sure all three are ticked.
+4. Start the game. On the character screen, open **AddOns** and make sure all four are ticked.
 
 ## Use
 
