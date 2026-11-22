@@ -51,6 +51,7 @@ over the middle of the map.
 - **The button on your minimap:** left-click for the settings, right-click to show or hide the map. Drag it
   to move it around the minimap.
 - `/csmap` opens the settings window.
+- Mouse over any mark on the map or the compass to see what it is. Tick "Square map" in the settings for a square map.
 - `/csmap hud` shows or hides the map, or set a key: Options > Key Bindings > AddOns > ClanStop Map Overlay & Compass.
 - `/csmap help` lists every command.
 
