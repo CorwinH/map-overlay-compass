@@ -1,7 +1,7 @@
 # Map Overlay & Compass for WoW Forever
 
 A see-through, click-through map over the middle of your screen and a compass bar, by **ClanStop**. Outlines of hills,
-roads and water for all of Eastern Kingdoms and Kalimdor, Zephra's Isle, Darkspear Islands, Forever's new instances, the
+roads, water and buildings for all of Eastern Kingdoms and Kalimdor, Zephra's Isle, Darkspear Islands, Forever's new instances, the
 battlegrounds and the outdoor parts of dungeons and raids; quests (your focused quest in a colour you pick), your group, flight
 masters, banks, inns and trainers on the compass and the map; your target's role and distance. No other addons needed.
 
