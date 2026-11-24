@@ -15,34 +15,26 @@ It's also coming to CurseForge as "Map Overlay & Compass"; once it's there, Curs
 
 ## Screenshots
 
-**Outdoors: hills, roads and water as clean lines**, laid over the game. Clicks go straight through to the world.
+**Roads, hills and buildings as clean lines**, laid over the game. Zoomed in to 350 yards in Camp Taurajo you see the
+roads and the outline of every building around you. Clicks go straight through to the world.
 
-![Outlines over the Barrens](screenshots/screenshot-2.jpg)
+![Roads and buildings in Camp Taurajo](screenshots/screenshot-3.jpg)
 
 **Your focused quest's whole area** outlined in your colour, with Questie's own icons for the mobs to kill.
 
-![Quest area and Questie icons](screenshots/screenshot-8.jpg)
+![Quest area and Questie icons](screenshots/screenshot-1.jpg)
 
-**Zoomed in to 350 yards in a camp:** roads and the outlines of the buildings around you.
+**Focus a quest from the map:** double-click or hold its mark.
 
-![Roads and buildings in Camp Taurajo](screenshots/screenshot-10.jpg)
-
-**In a fight** the map stays out of your way, and you can still click your target through it.
-
-![The map during a fight](screenshots/screenshot-7.jpg)
-
-**Zoomed in to 300 yards.** Your focused quest is circled, with its name and distance.
-
-![Zoomed in with a focused quest](screenshots/screenshot-5.jpg)
-
-**The compass bar** with your zone and coordinates, quest marks and what's straight ahead. Drag it anywhere, here
-over the middle of the map.
-
-![The compass over the map](screenshots/screenshot-4.jpg)
+![Focus a quest from the map](screenshots/screenshot-2.jpg)
 
 **Settings window** (`/csmap`): how far, how big, how see-through, which outlines and marks, your own colour.
 
-![Settings window](screenshots/screenshot-1.jpg)
+![Settings window](screenshots/screenshot-4.jpg)
+
+**Without the addon**, for comparison: just the game's small minimap in the corner.
+
+![The same spot without the addon](screenshots/screenshot-5.jpg)
 
 ## Install
 
