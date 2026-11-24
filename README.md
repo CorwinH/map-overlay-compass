@@ -19,6 +19,14 @@ It's also coming to CurseForge as "Map Overlay & Compass"; once it's there, Curs
 
 ![Outlines over the Barrens](screenshots/screenshot-2.jpg)
 
+**Your focused quest's whole area** outlined in your colour, with Questie's own icons for the mobs to kill.
+
+![Quest area and Questie icons](screenshots/screenshot-8.jpg)
+
+**Zoomed in to 350 yards in a camp:** roads and the outlines of the buildings around you.
+
+![Roads and buildings in Camp Taurajo](screenshots/screenshot-10.jpg)
+
 **In a fight** the map stays out of your way, and you can still click your target through it.
 
 ![The map during a fight](screenshots/screenshot-7.jpg)
